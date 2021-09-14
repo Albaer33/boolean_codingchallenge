@@ -1,0 +1,55 @@
+body {
+  font-family: verdana;
+  width: 50%;
+  margin: auto;
+  font-size: 16px;
+  background-image: url("img/background.jpg");
+  background-size: cover;
+}
+#container {
+  width: 80%;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding:10%;
+  margin-top: 3%;
+  border-radius: 15px;
+}
+header > h1 {
+  color: #00FF00;
+  margin-left: 17%;
+}
+nav {
+  background-color: #00FF00;
+  padding-left: 32%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+#logo {
+  width: 250px;
+  margin-left: 35%;
+  margin-top: 5%;
+}
+.titoli {
+  font-size: 20px;
+}
+.escooter {
+  color: white;
+  margin-top: 4%;
+}
+.bar {
+  height: 20px;
+  padding: 2px;
+  border-radius: 5px
+}
+.bar.uno {
+  background-color: #DEB887;
+  width: 40%;
+}
+.bar.due {
+  background-color: #00FF00;
+  width: 75%;
+}
+.bar.tre {
+  background-color: #DC143C;
+  width: 20%;
+}
